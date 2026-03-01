@@ -47,8 +47,9 @@ export default function Home() {
           </section>
 
           {/* Section 6: All Companies */}
-          <section className="space-y-4">
+          <section className="space-y-2">
             <h2 className="text-2xl font-bold text-white">All Companies</h2>
+            <h3 className="text-sm text-muted-foreground ">*some repetitions</h3>
             <AllCompaniesTable />
           </section>
 
