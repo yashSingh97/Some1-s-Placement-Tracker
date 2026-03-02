@@ -25,7 +25,7 @@ export function Navbar() {
         <div className="flex items-center">
           <div className=" mt-3.5 mb-3.5">
             <h1 className="text-xl font-bold tracking-tight">
-              Someone's Placement Tracker
+              Someone's Placement Tracker (refresh if data doesn't load)
             </h1>
             <p className="text-xs text-muted-foreground">
               Data may contain inaccuracies
